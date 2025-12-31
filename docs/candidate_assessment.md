@@ -45,4 +45,3 @@ Give him the “high-autonomy” mission profile: Minimal infrastructure, high a
 Status: GREEN / READY FOR DEPLOYMENT.
 
 End of File.
-
